@@ -67,3 +67,15 @@ Para realizar entrada de dados, deverão seguir esse passo a passo no VSCode par
 <div align="center">
 <img src="https://user-images.githubusercontent.com/131487024/234375239-02957131-495a-414f-b3dc-630ece2bf370.png" width="600px" />
 </div>
+
+<p></p>
+
+##IntelliJ
+
+**Passo 1:**
+Fazer o dowload através do site ificial da JetBrains(https://www.jetbrains.com/idea/download/#section=windows)
+
+<p></p>
+
+**Passo 2:*
+Ao baixar e executr o arquivo, clique em next até chegar nessa janela e marque  essas  opções
