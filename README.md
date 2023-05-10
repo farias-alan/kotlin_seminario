@@ -70,12 +70,13 @@ Para realizar entrada de dados, deverão seguir esse passo a passo no VSCode par
 
 <p></p>
 
-##IntelliJ
+## IntelliJ:
 
 **Passo 1:**
 Fazer o dowload através do site ificial da JetBrains(https://www.jetbrains.com/idea/download/#section=windows)
 
 <p></p>
 
-**Passo 2:*
-Ao baixar e executr o arquivo, clique em next até chegar nessa janela e marque  essas  opções
+**Passo 2:**
+Ao baixar e executr o arquivo, clique em next até chegar na janela para marcar a opção "Add bin folder to the path", e selecionar as linguagens com que deseja trabalhar. Em seguida clique em Install e aguarder até que o IntelliJ seja instalado.
+
